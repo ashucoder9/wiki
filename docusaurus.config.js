@@ -116,26 +116,6 @@ module.exports = {
           },
           //pos node operate
           {
-            to: '/docs/pos/operate/node/full-node-deployment',
-            from: '/docs/operate/full-node-binaries',
-          },
-          {
-            to: '/docs/pos/operate/node/full-node-deployment',
-            from: '/docs/operate/full-node-docker',
-          },
-          {
-            to: '/docs/pos/operate/node/full-node-deployment',
-            from: '/docs/operate/full-node-gcp',
-          },
-          {
-            to: '/docs/pos/operate/node/full-node-deployment',
-            from: '/docs/operate/full-node',
-          },
-          {
-            to: '/docs/pos/operate/node/full-node-deployment',
-            from: '/docs/operate/full-node-deployment',
-          },
-          {
             to: '/docs/pos/operate/node/erigon-client',
             from: '/docs/operate/erigon-client',
           },
@@ -148,10 +128,6 @@ module.exports = {
             from: '/docs/operate/setup-archive-node',
           },
           //pos operate
-          {
-            to: '/docs/pos/design/gas-token',
-            from: '/docs/operate/gas-token',
-          },
           {
             to: '/docs/pos/reference/contracts/genesis-contracts',
             from: '/docs/operate/genesis-contracts',
